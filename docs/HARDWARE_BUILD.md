@@ -10,7 +10,7 @@ The optional LED ring was omitted to keep the overall cost as low as possible.
 
 Rather than following every part of the original assembly process, I developed my own solution for mounting and wiring the Hall-effect joysticks using hand-made perfboard assemblies.
 
-![Completed SpaceMouse](../../Images/hardware/spacemouse-botom-overview.jpeg)
+![Completed SpaceMouse](../../Images/hardware/pcbs-overview.jpeg)
 
 ## 1. Hall-Effect Joysticks
 
