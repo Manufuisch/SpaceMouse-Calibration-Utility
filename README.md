@@ -24,8 +24,7 @@ Min/Max Calibration:
 The main goal is to simplify the calibration process by replacing continuously scrolling serial monitor output with a structured and easy-to-read graphical interface.
 This project is an independent companion utility and does not replace the original SpaceMouse firmware.
 
-
-<img width="1208" height="903" alt="image" src="https://github.com/user-attachments/assets/c475c679-76b5-4cb4-a7dd-5914bb4991a9" />
+![min max calibration](images/screenshots/min-max-calibration.png)
 
 ## Motivation – Why I Created This Utility
 
