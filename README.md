@@ -24,7 +24,7 @@ Min/Max Calibration:
 The main goal is to simplify the calibration process by replacing continuously scrolling serial monitor output with a structured and easy-to-read graphical interface.
 This project is an independent companion utility and does not replace the original SpaceMouse firmware.
 
-![min max calibration](images/screenshots/min-max-calibration.png)
+![min max calibration](images/Screenshots/min-max-calibration.png)
 
 ## Motivation – Why I Created This Utility
 
@@ -44,7 +44,7 @@ The utility provides four screens that guide the user through the connection, di
 
 ### 1. COM Port Selection
 
-![COM Port Selection](images/screenshots/com-port-selection.png)
+![COM Port Selection](images/Screenshots/com-port-selection.png)
 
 Displays the available serial ports and allows the user to select the port connected to the SpaceMouse controller.
 
@@ -52,7 +52,7 @@ Once connected, the application communicates with the original AndunHH firmware 
 
 ### 2. Function Check
 
-![Function Check](images/screenshots/function-check.png)
+![Function Check](images/Screenshots/function-check.png)
 
 Displays the raw 10-bit ADC readings (0–1023) of the selected joystick in real time using Debug Mode 1.
 
@@ -60,7 +60,7 @@ This screen helps verify the electrical connections, identify incorrect axis ass
 
 ### 3. Hall-Effect Joystick Centering
 
-![Joystick Centering](images/screenshots/joystick-centering.png)
+![Joystick Centering](images/Screenshots/joystick-centering.png)
 
 Provides visual assistance for mechanically centering Hall-effect joysticks.
 
@@ -70,7 +70,7 @@ The displayed tolerances are intended as practical alignment guidelines rather t
 
 ### 4. Min/Max Calibration
 
-![Min/Max Calibration](images/screenshots/min-max-calibration.png)
+![Min/Max Calibration](images/Screenshots/min-max-calibration.png)
 
 Continuously monitors the centered joystick values using Debug Mode 2 and records the minimum and maximum readings reached on all eight axes.
 
