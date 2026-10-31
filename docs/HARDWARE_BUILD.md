@@ -10,7 +10,7 @@ The optional LED ring was omitted to keep the overall cost as low as possible.
 
 Rather than following every part of the original assembly process, I developed my own solution for mounting and wiring the Hall-effect joysticks using hand-made perfboard assemblies.
 
-![Completed SpaceMouse](../../Images/hardware/complete-spacemouse.jpg)
+![Completed SpaceMouse](../../Images/hardware/spacemouse-botom-overview.jpg)
 
 ## 1. Hall-Effect Joysticks
 
@@ -58,7 +58,7 @@ Once the first board fitted correctly, I used it as a physical template to repro
 
 The result was a set of four individually manufactured joystick mounting boards.
 
-![Custom Perfboard Assemblies](../../Images/hardware/perfboard-assemblies.jpg)
+![Custom Perfboard Assemblies](../../Images/hardware/pcbs-overview.jpg)
 
 ## 3. Electrical Connections & Wiring
 
@@ -86,7 +86,7 @@ Although the integrated joystick push-buttons are not currently used by the firm
 
 This leaves the option of using the push-buttons in a future modification without having to disassemble and resolder the joystick modules.
 
-![Installed Joystick Assemblies](../../Images/hardware/installed-joysticks.jpg)
+![Installed Joystick Assemblies](../../Images/hardware/josticks-overiew.jpg)
 
 ## 4. Joystick Caps & Final Assembly
 
@@ -100,7 +100,7 @@ During bonding, the joysticks were positioned upside down to reduce the risk of 
 
 After the adhesive had cured, the joystick assemblies were installed in the SpaceMouse housing and connected to the microcontroller.
 
-Further information about the printed parts and surface finishing is available in the [3D Printing & Surface Finishing documentation](../3d-printing/README.md).
+Further information about the printed parts and surface finishing is available in the [3D Printing & Surface Finishing documentation](../3d-printing.md).
 
 ## 5. Final Result
 
