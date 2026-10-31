@@ -13,7 +13,7 @@ The main objectives were to achieve:
 - A smooth and comfortable control knob surface.
 - A visually consistent finish using materials already available.
 
-
+![Completed SpaceMouse](../Images/3d-printing/spacemouse-overview.jpeg)
 
 ## 1. Transparent PETG – Material Preparation & Calibration
 
@@ -53,7 +53,7 @@ However, PETG can bond very strongly to certain build surfaces, potentially dama
 
 To reduce this risk, I applied a compatible 3D-printing adhesive as a **release layer**, rather than primarily using it to increase adhesion.
 
-
+![Completed SpaceMouse Bottom](../Images/3d-printing/spacemouse-botom-overview.jpeg)
 
 ## 2. ASA Control Knob – Printing & Surface Finishing
 
@@ -108,11 +108,11 @@ This decision had two advantages:
 
 The lower component was only lightly sanded where necessary.
 
-
+![Completed SpaceMouse Bottom](../Images/3d-printing/controlling-nob-overview.jpeg)
 
 The following close-up provides a more detailed comparison between the untreated mounting base and the acetone-smoothed upper knob.
 
-
+![Completed SpaceMouse Bottom](../Images/3d-printing/controlling-nob-comparance.jpeg)
 
 The treated upper section shows significantly reduced layer-line visibility, while the untreated base provides a reference for the original printed surface.
 
