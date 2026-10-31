@@ -172,10 +172,6 @@ Compatibility with modified firmware versions or different serial output formats
 
 ## Additional Documentation
 
-Additional documentation is available for those interested in the hardware assembly, 3D printing process, and original projects behind my SpaceMouse build.
-
-## Additional Documentation
-
 Additional documentation is available for those interested in the hardware assembly and mechanical construction of my personal SpaceMouse build.
 
 | Document | Description |
@@ -184,6 +180,20 @@ Additional documentation is available for those interested in the hardware assem
 | [3D Printing & Surface Finishing](docs/3D_PRINTING.md) | Overview of the 3D printing process, materials, and acetone-based surface finishing, illustrated with photographs. |
 
 The documentation describes my personal implementation of the ErgonoMouse MK XX hardware design.
+
+Special thanks to both developers for making their projects available to the community.
+
+## AI-Assisted Development & Transparency
+
+Artificial Intelligence (AI) was used as a supporting tool during the development of this project, primarily for generating graphical elements, assisting with debugging, and improving documentation.
+
+A significant portion of the graphical drawing code was generated with AI assistance to reduce repetitive implementation work and achieve a consistent visual design. AI was also used to help identify and understand programming errors during development.
+
+**The application architecture, program logic, functionality, and overall design decisions were independently conceived and implemented by me.** AI assistance did not replace the development of the core software logic. AI-generated graphical functions are explicitly identified in the source code.
+
+AI was also used to improve the English wording, technical terminology, and readability of this GitHub documentation. The underlying technical content, project decisions, and explanations originate from my own work.
+
+**In summary, AI served as a development and documentation tool, while the core software logic and technical implementation remain my own work.**
 
 ## Credits & License
 
@@ -202,20 +212,6 @@ This project would not have been possible without the work of the following deve
 - Original hardware design: [ErgonoMouse MK XX on Printables](https://www.printables.com/model/974592-ergonomouse-mk-xx-6dof-controller-knob-joystick-wi)
 - Provides the mechanical design and 3D-printable components used for my personal SpaceMouse build.
 - The original hardware design is subject to its own Creative Commons licensing terms.
-
-Special thanks to both developers for making their projects available to the community.
-
-## AI-Assisted Development & Transparency
-
-Artificial Intelligence (AI) was used as a supporting tool during the development of this project, primarily for generating graphical elements, assisting with debugging, and improving documentation.
-
-A significant portion of the graphical drawing code was generated with AI assistance to reduce repetitive implementation work and achieve a consistent visual design. AI was also used to help identify and understand programming errors during development.
-
-**The application architecture, program logic, functionality, and overall design decisions were independently conceived and implemented by me.** AI assistance did not replace the development of the core software logic. AI-generated graphical functions are explicitly identified in the source code.
-
-AI was also used to improve the English wording, technical terminology, and readability of this GitHub documentation. The underlying technical content, project decisions, and explanations originate from my own work.
-
-**In summary, AI served as a development and documentation tool, while the core software logic and technical implementation remain my own work.**
 
 ### License
 
